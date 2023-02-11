@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="NewSparkExample:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NewSparkExample_jar</output-path>
+    <root id="archive" name="NewSparkExample.jar">
+      <element id="module-output" name="NewSparkExample" />
+    </root>
+  </artifact>
+</component>
